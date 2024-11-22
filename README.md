@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Renards Krišjānis
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=6aa6f8)](www.linkedin.com/in/renardskrisjanis)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=6aa6f8)](www.linkedin.com/in/renardskrisjanis/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/renards.k/)
 ```
 using System;
